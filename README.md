@@ -52,3 +52,7 @@ Recomenda-se o uso de um ambiente virtual para isolar as dependências.
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
+```
+
+[![Documentation](https://img.shields.io/badge/docs-artigo_científico-blue)](https://docs.google.com/document/d/1ODX1AXKrks3QAN3EUz0ZkgyZvcTmYUFICBhj2eYhYE8/edit?usp=sharing)
+
